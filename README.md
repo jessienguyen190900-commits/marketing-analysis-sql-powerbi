@@ -38,5 +38,11 @@ Before building the dashboard, the raw datasets were cleaned and transformed usi
 The dataset was structured using a star schema data model to enable efficient analysis.
 
 ![Data Model](Power_BI_Models.png)
+
+**3.2. Overview Dashboards:**
+
+![Dashboard Overview](BI_Overview.png)
+
+
    
 
