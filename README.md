@@ -20,13 +20,14 @@ What insights can help improve marketing effectiveness and increase conversion p
 
 Before building the dashboard, the raw datasets were cleaned and transformed using SQL Server. 
 
-**2.1. Dimension Table data**
+**2.1 Dimension Table Data**
 
-Product Data 
-Customer Data
-2.2. Fact Table data
-Customer Journey
-Customer Engagement
-Customer Reviews 
+- [Product Data](01_products_cleaning.sql)
+- [Customer Data](02_customers_cleaning.sql)
 
+**2.2 Fact Table Data**
+
+- [Customer Journey](03_customerjourney_cleaning.sql)
+- [Customer Engagement](05_engagement_cleaning.sql)
+- [Customer Reviews](04_customerreview_cleaning.sql)
 
