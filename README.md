@@ -31,3 +31,12 @@ Before building the dashboard, the raw datasets were cleaned and transformed usi
 - [Customer Engagement](05_engagement_cleaning.sql)
 - [Customer Reviews](04_customerreview_cleaning.sql)
 
+**3. Power BI Dashboards:**
+
+**3.1. Data Models:**
+
+The dataset was structured using a star schema data model to enable efficient analysis.
+
+![Data Model](Power BI Models.png)
+   
+
