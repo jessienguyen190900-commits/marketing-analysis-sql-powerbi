@@ -1,4 +1,5 @@
 **Marketing Analytics Project**
+
 **1. Project Background: **
 The marketing team has observed declining engagement and conversion performance despite increasing investment in marketing campaigns. Although campaigns generate a large number of views and clicks, the return in terms of purchases is not meeting expectations.
 
